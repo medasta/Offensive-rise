@@ -21,4 +21,10 @@
     } else{
         echo "val is not int\n";
     }
+
+    $isWeatherGood = false;
+    // || - или / && - и
+    if ($str == "Hello" || $isWeatherGood == true){
+
+    }
 ?>
